@@ -1,0 +1,23 @@
+{
+  "name": "js_-algorithms--subarraysort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prince7475/Js_-algorithms--SubarraySort.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prince7475/Js_-algorithms--SubarraySort/issues"
+  },
+  "homepage": "https://github.com/prince7475/Js_-algorithms--SubarraySort#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
