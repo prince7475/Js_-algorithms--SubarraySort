@@ -26,4 +26,4 @@ function isOutOfOrder(idx, num, array){
     if (idx === array.length - 1) return num < array[idx - 1]
     return num < array[idx - 1] || num > array[idx + 1]
 }
-exports.subarraySort = subarraySort
+exports.subarraySort = subarraySort ß
