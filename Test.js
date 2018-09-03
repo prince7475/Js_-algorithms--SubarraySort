@@ -1,5 +1,5 @@
 const chai = require('chai')
-const program = require('./SubarraySort')
+const program = require('./SecondGo')
 
 
 describe('subarraySort', function () {
